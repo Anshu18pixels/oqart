@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "https://event.eighteenpixels.in/api/";
+const API_URL = "https://api.oqart.com/api/";
 const addUser = (data) => {
   console.log(data);
   const headers = {
